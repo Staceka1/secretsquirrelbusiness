@@ -1,7 +1,7 @@
 # secretsquirrelbusiness
 ### Challenge 03 JavaScript: Password Generator
 
-## User Story
+### User Story
 
 ```
 AS AN employee with access to sensitive data
@@ -9,7 +9,7 @@ I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
 ```
 
-## Acceptance Criteria
+### Acceptance Criteria
 
 ```
 GIVEN I need a new, secure password
@@ -29,11 +29,12 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
-## Mock-Up
+### Mock-Up
 
 The following image shows the web application's appearance and functionality:
 
 ![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
 
-## URL for password generator
+### URL for password generator
+https://staceka1.github.io/secretsquirrelbusiness/
 
